@@ -1,4 +1,3 @@
-# Beautiful is better than ugly
 """
 Initial code was created by Vishal Sharma
 See:  https://towardsdatascience.com/the-zen-of-python-a-guide-to-pythons-design-principles-93f3f76d088a

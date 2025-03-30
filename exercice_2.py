@@ -1,5 +1,3 @@
-# Simple is better than complex
-
 def reverse_string(string):
     if len(string) == 1:
         return string
