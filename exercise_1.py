@@ -7,6 +7,15 @@ Refactor the following code to:
 """
 
 def f(a, b):
+    """Calculate bonus.
+
+    Args:
+        a (int): Customer points
+        b (int): Items in cart
+
+    Returns:
+        int: Bonus
+    """
     if a > 10:
         if b < 5:
             return a*b
